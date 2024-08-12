@@ -11,6 +11,6 @@ Welcome to the Linux Quiz Repository! This repository contains a comprehensive s
 
 ## Thank You
 
-Thank you for visiting the Linux Quiz Repository! We hope these quizzes help you in mastering Linux. If you have any questions or feedback, feel free to reach out.
+Thank you for visiting the Linux Quiz Repository! I hope these quizzes help you in mastering Linux. If you have any questions or feedback, feel free to reach out.
 
 
